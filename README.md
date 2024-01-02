@@ -1,4 +1,6 @@
-### Hi there 👋
+### About
+
+Hi, my name is Katherine
 
 <!--
 **Meteorstrike1/Meteorstrike1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
