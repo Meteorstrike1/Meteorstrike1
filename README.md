@@ -9,6 +9,10 @@ At university I did a BEng and PhD in Materials Science and Engineering. I've go
 - 🌱 I’m currently learning Django, Kivy, and advancing my Python knowledge
 - 👯 I’m looking to collaborate on any projects I can help with, Python, Flask and SQL are the main areas I am currently strongest in
 
+### Courses
+- I’m currently working through Harvard’s famous CS50x: Introduction to Computer Science, to further develop my knowledge of computer science fundamentals. It’s been really fun and useful so far learning about C, memory, and data structures from the ground up.
+- I’m also going through Udemy’s Master the Coding Interview: Data Structures and Algorithms, while tackling Leetcode 75 as well.
+
 <!--
 **Meteorstrike1/Meteorstrike1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
