@@ -24,7 +24,7 @@ Hi, my name is Katherine. I am a full stack developer looking for my first job i
 - I’m also going through Udemy’s Master the Coding Interview: Data Structures and Algorithms, while tackling Leetcode 75 as well.
 
 ### Projects :rocket:
-- Lead backend developer for [IntroVerse](https://github.com/Angel2001-programmer/Introverse) (React.js/Python), a safe haven for introverts who love reading, anime, and games
+- Lead backend developer for [IntroVerse](https://github.com/Angel2001-programmer/Introverse) (React.js/Python/MySQL), a safe haven for introverts who love reading, anime, and games
 - Working on a [Kickboxing](https://github.com/Meteorstrike1/kbmovesapp) moves app (Kivy GUI/Python/Sqlite) which is cross platform and then hoping to deploy to android
 - I’m open collaborate on any projects I can help with, Python, Flask and SQL are the main areas I am currently strongest in
 
