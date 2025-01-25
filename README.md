@@ -1,35 +1,32 @@
 ### About me :snake:
-
-Hi, my name is Katherine. I am a full stack developer looking for my first job in tech. My strongest language is Python; I've been focussing on advancing my knowledge, skills and coding quality here in an effort to build overall programming expertise that I can transfer to other languages also. I'm also well experienced in SQL, JavaScript, and React.js. At the end of 2023 I completed the 16 week intensive CFG degree specialising in Full Stack. I like implementing features across the whole stack but backend and data handling is my favourite.
+Hi, my name is Katherine. I'm a self taught developer based in Swansea; I've been working as a Software Development Engineer in Test (SDET) at the DVLA since June 2024. I love making things and quality engineering. I currently specialise in Ruby, developing functional tests, and continuous integration. My background has been in Python and Flask/SQL with a bit of JavaScript and React. I'm super curious and always learning and working to improve my programming expertise.
 
 ### Skills and interests :bug:
-- Python, Flask, SQLAlchemy, Flask-RESTX
-- JavaScript, React, HTML, CSS
-- SQL, MySQL, SQLite
-- Unit/integration testing
-- Building REST APIs
+- Functional testing
+- Ruby
+- Python and Flask
+- Kivy and app development
 - Full stack and backend development
+- Tooling and build pipelines
+- SQL and databases
+- Unit/integration testing
 
-### Learning/improving 🌱
-- C language fundamentals
-- Django
-- Kivy and frontend Flask/Django
-- Testing in React
+### Learning/improving :books:
+- Ruby on Rails
+- Java
+- C and programming fundamentals
+- Design patterns
+- Algorithms and data structures
+- Django, Springboot and other backend frameworks
 - TypeScript
-- Node and Express
-- MongoDB
+- Other types of testing
 
-### Courses :books:
-- I’m currently working through Harvard’s famous CS50x: Introduction to Computer Science, to further develop my knowledge of computer science fundamentals. It’s been really fun and useful so far learning about C, memory, and data structures from the ground up.
-- I’m also going through Udemy’s Master the Coding Interview: Data Structures and Algorithms, while tackling Leetcode 75 as well.
+### Career change story :european_castle:
+At university I did a BEng and PhD in Materials Science and Engineering. I worked for nearly 9 years as a postdoctoral researcher, focussing on the scale up of renewable technologies such as solar cells. In March 2023 I decided I wanted a change, something still analytical and logical but whilst being able to explore my creative side more and still make cool things. I started learning Python and quickly discovered how much I enjoyed coding; I wanted to explore this world more deeply and find out what was right for me. I did several courses on Python, SQL, and a few other topics, through LinkedIn Learning, Swansea MAD, and Code First Girls. I applied for the Autumn 2023 cohort of Code First Girl's CFG degree and I was lucky enough to be accepted. This ran from September to December 2023 and was an amazing opportunity, it greatly accelerated my learning and gave me a taster of what working as a developer entails. I worked very hard to continue with my learning; improving projects, working on new ones, and embracing testing, while applying to jobs. Eventually this paid off and I started my new career as a developer specialising in test, the best of both worlds.
 
 ### Projects :rocket:
-- Lead backend developer for [IntroVerse](https://github.com/Angel2001-programmer/Introverse) (React.js/Python/MySQL), a safe haven for introverts who love reading, anime, and games
 - Working on a [Kickboxing](https://github.com/Meteorstrike1/kbmovesapp) moves app (Kivy GUI/Python/Sqlite) which is cross platform and then hoping to deploy to android
-- I’m open collaborate on any projects I can help with, Python, Flask and SQL are the main areas I am currently strongest in
-
-### My story :european_castle:
-At university I did a BEng and PhD in Materials Science and Engineering. I've got 9 years of postdoctoral research experience in solar cells and thermochemical heat storage. Last March I decided I wanted a change, something still very analytical and logical but whilst being able to explore my creative side more and still make cool things. I started learning Python and quickly discovered how much I enjoyed coding, wanting to explore deeper into this world and find out what was right for me. I did several courses on Python, SQL, and a few other topics, through LinkedIn Learning, Swansea MAD, and Code First Girls. I applied for the Autumn 2023 cohort of Code First Girl's CFG degree and I was lucky enough to be accepted (sponsored by Admiral). This ran from September to December 2023 and has been amazing, I couldn't have learned more (really, nearly every day my brain was full). I am so glad that I started to learn because I've been missing out all these years. I really can't wait to start my first developer role and demonstrate my hard work and determination.
+- Backend developer for [IntroVerse](https://github.com/Angel2001-programmer/Introverse) (React.js/Python/MySQL), a safe haven for introverts who love reading, anime, and games
 
 <!--
 **Meteorstrike1/Meteorstrike1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
